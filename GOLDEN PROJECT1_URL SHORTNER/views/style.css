@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.container{
+    border: 2px solid black;
+    background-color: bisque;
+    margin: 100px 20px;
+
+}
